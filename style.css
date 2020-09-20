@@ -1,0 +1,21 @@
+		h1
+		{
+			color:yellow;
+		 	text-align:center;
+		}
+
+		h3
+		{
+			color:red;
+		}
+
+		div{
+			font-family:arial;
+			font-size: 28px;
+			font-weight:bold;
+
+			background-color:black;
+			height: 50%;
+			width: 50%;
+			}
+		
